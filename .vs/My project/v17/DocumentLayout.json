@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artur\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\artur\\my project\\assets\\ballbouncesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\ballbouncesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\artur\\my project\\assets\\baskettrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\baskettrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Artur\\My project\\assets\\throwableball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\throwableball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E965D3A1-D697-4EFE-2F68-0F8FF8D4BC4B}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Artur\\My project\\assets\\samples\\xr interaction toolkit\\3.0.7\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E965D3A1-D697-4EFE-2F68-0F8FF8D4BC4B}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\3.0.7\\starter assets\\scripts\\gazeinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Artur\\My project\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallBounceSound.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\My project\\Assets\\BallBounceSound.cs",
+              "RelativeDocumentMoniker": "Assets\\BallBounceSound.cs",
+              "ToolTip": "C:\\Users\\Artur\\My project\\Assets\\BallBounceSound.cs",
+              "RelativeToolTip": "Assets\\BallBounceSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:03:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\My project\\Assets\\BasketTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\BasketTrigger.cs",
+              "ToolTip": "C:\\Users\\Artur\\My project\\Assets\\BasketTrigger.cs",
+              "RelativeToolTip": "Assets\\BasketTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:31:43.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThrowableBall.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\My project\\Assets\\ThrowableBall.cs",
+              "RelativeDocumentMoniker": "Assets\\ThrowableBall.cs",
+              "ToolTip": "C:\\Users\\Artur\\My project\\Assets\\ThrowableBall.cs",
+              "RelativeToolTip": "Assets\\ThrowableBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:29:49.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GazeInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\My project\\Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ToolTip": "C:\\Users\\Artur\\My project\\Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\3.0.7\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:25:16.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Artur\\My project\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\Artur\\My project\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:45:33.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

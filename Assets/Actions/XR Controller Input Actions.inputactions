@@ -1,0 +1,34 @@
+{
+    "name": "XR Controller Input Actions",
+    "maps": [
+        {
+            "name": "Throw",
+            "id": "a732b149-7f45-445e-ad1b-0eb7b37ce701",
+            "actions": [
+                {
+                    "name": "Throw",
+                    "type": "Button",
+                    "id": "6154e2cf-2597-401a-bc2b-dc70827f3675",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "66b1d2e8-99e5-44a9-b3ba-e89be386bf98",
+                    "path": "<XRSimulatedController>{RightHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
